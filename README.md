@@ -124,7 +124,7 @@ A complete age-segmented breakdown created using DAX-based Age Groups.
     - Compare lifestyle habits (e.g., sleep) by age
     - Understand age-related psychological patterns
 
-### Tools & Technologies
+## Tools & Technologies
 - SQL (Snakeflow)
 - Power BI Desktop
 - Power Query
@@ -133,7 +133,7 @@ A complete age-segmented breakdown created using DAX-based Age Groups.
 - Data Profiling & Validation
 - Data Modeling
 
-### Key Outcomes & Insights
+## Key Outcomes & Insights
 - Identified major physical symptoms associated with panic disorder
 - Highlighted lifestyle contributors such as low sleep hours and higher drinking frequency
 - Showed how demographic factors influence symptom severity
